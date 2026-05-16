@@ -1,0 +1,12 @@
+{
+  "name": "api-render-html",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.19.0",
+    "puppeteer": "^22.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
